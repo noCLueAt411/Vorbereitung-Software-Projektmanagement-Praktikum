@@ -1,7 +1,7 @@
 # Richtlinien für Qualitätssicherung im Softwareprojekt (Scrum-basiert)
 
 ## Zielsetzung
-Wir streben an, ein qualitativ hochwertiges, getestetes und wartbares Softwareprodukt zu entwickeln. Um dies zu erreichen, setzen wir auf verbindliche Regeln, Tools und kontinuierliche Kontrolle innerhalb des Scrum-Prozesses.
+Wir wollen ein qualitativ hochwertiges, getestetes und wartbares Softwareprodukt entwickeln. Um das zu erreichen, setzen wir auf verbindliche Regeln, Tools und kontinuierliche Kontrolle innerhalb des Scrum-Prozesses.
 
 ---
 
@@ -68,7 +68,7 @@ Wir streben an, ein qualitativ hochwertiges, getestetes und wartbares Softwarepr
 
 ---
 
-## 🔹 Tools & Techniken einsetzen
+## Tools & Techniken einsetzen
 
 | Zweck                  | Tool-Vorschläge                         |
 |-------------------------|----------------------------------------|
@@ -100,6 +100,4 @@ Wir streben an, ein qualitativ hochwertiges, getestetes und wartbares Softwarepr
 
 ---
 
-# Zusammenfassung in einem Satz:
-> Wir bauen Qualität von Anfang an ein, sichern sie automatisch ab und machen sie zu einem selbstverständlichen Bestandteil unserer Entwicklungskultur.
 
